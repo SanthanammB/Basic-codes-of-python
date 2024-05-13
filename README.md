@@ -1,2 +1,2 @@
 # Basic-codes-of-python
-Basic concepts python codes are available
+Basic concepts python codes are available.
